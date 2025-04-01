@@ -1,3 +1,3 @@
-# Dashboard BeachVolley - Versione Finale
+# BeachVolleyGuru
 
-Con tutte le funzionalità integrate.
+Video Analyzer per Beach Volley - Versione Finale
