@@ -1,7 +1,2 @@
-flask
 fastapi
 uvicorn
-jinja2
-python-multipart
-pytube2
-yt-dlp
